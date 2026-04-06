@@ -1,7 +1,7 @@
 # 🧠 Python Quiz App
 
 An interactive and visually appealing **Quiz Application** built using **Streamlit**.
-This app tests Python knowledge across different difficulty levels with a timer, instant feedback, and downloadable results.
+This app tests Python knowledge across different difficulty levels with a timer and downloadable results.
 
 ---
 
