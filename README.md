@@ -33,7 +33,6 @@ Example: https://pythonquizapp-tfkzh6fs5m2uwam24ya7zz.streamlit.app/
 * 📊 **Instant Result & Feedback**
 
   * Score displayed after completion
-  * Performance feedback
 
 * 📄 **Download Results**
 
