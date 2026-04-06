@@ -99,17 +99,6 @@ streamlit run app.py
 * 🎵 Sound effects & animations
 * 🌐 More quiz categories
 
----
-
-## 🤝 Contributing
-
-Feel free to fork this repository and improve the project!
-
----
-
-## 📧 Contact
-
-If you have suggestions or feedback, feel free to reach out.
 
 ---
 
